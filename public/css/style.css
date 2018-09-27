@@ -1,0 +1,60 @@
+/* @import "~bootstrap/scss/bootstrap"; */
+body {
+  background-color: rgba(238, 235, 196, 0.993);
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+  margin: 1% auto;
+  padding: 0px;
+  max-width: 100%; }
+
+#button {
+  font-size: 20px;
+  font-weight: bold; }
+
+#button, .katigorie {
+  font-size: 12px;
+  background-color: #1246f3;
+  border: none;
+  width: 100px;
+  height: 30px;
+  border-radius: 5px;
+  border-right: 20px;
+  color: white; }
+
+.test {
+  font-size: 22px; }
+
+#eins {
+  opacity: 0;
+  /*visibility: hidden; */ }
+
+#submit {
+  background-color: #76f393;
+  border: none;
+  width: 100px;
+  height: 30px;
+  border-radius: 5px;
+  border-right: 20px; }
+
+.brett {
+  display: flex;
+  justify-content: center; }
+
+.spieler_1 {
+  margin-right: 30px; }
+
+.spieler_2 {
+  margin-left: 30px; }
+
+.katigorie {
+  /*   opacity: 0;  */
+  margin: 5px; }
+
+/* .form{
+   text-align: center
+   padding: 3%;
+   max-width: 50%; 
+   background: black;
+   border: black, 1px, solid;
+   text-align: left;
+   }  */

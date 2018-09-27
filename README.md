@@ -6,7 +6,7 @@ initialize new npm project (create new package.json)
 ````
 npm init
 ```
-in the project folder create dist and src folder
+in the project folder create public and src folder
 
 inside dist create css and js folder
 
@@ -31,4 +31,4 @@ but before put the dev and production script inside package.json (script)
   =>>>>>>>>
 
 ```
-
+_ vendor : extern library
